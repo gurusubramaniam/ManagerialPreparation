@@ -1,4 +1,4 @@
-# Manager Resources
+# Resources
 * https://github.com/ryanburgess/engineer-manager
 * https://hbr.org/2017/05/5-things-new-managers-should-focus-on-first
 * https://hbr.org/2017/08/how-new-managers-can-send-the-right-leadership-signals
@@ -10,6 +10,7 @@
 * https://hbr.org/2015/09/new-managers-need-a-philosophy-about-how-theyll-lead
 * https://hbr.org/2008/07/helping-new-managers-succeed-1
 * https://www.youtube.com/c/BrianTracyOfficialPage
+* https://www.robinsharma.com/blog
 
 # Preparing for Managerial Interviews
 * https://github.com/ryanburgess/manager-interview-questions
