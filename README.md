@@ -18,6 +18,11 @@
 * [Most Common Leadership Blind Spots - Part 2](https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MzQ5NmFiYWE2NGZmNDdjZWIzNjFhNGQ5MDM1OGI5N2U=)
 * [How to remove BlindSpots](https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTY0YzkzODY4NmFiNGU3NWEzZWQ4NTYxNzQ5YmNlN2Y=)
 
+# Linked in Inspiring Leaders. 
+* https://www.linkedin.com/in/dshapero/ (Eye opening short videos) 
+* 
+
 # Preparing for Managerial Interviews
 * https://github.com/ryanburgess/manager-interview-questions
 * https://www.youtube.com/c/ExponentTV
+
