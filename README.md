@@ -12,8 +12,12 @@
 * https://www.youtube.com/c/BrianTracyOfficialPage
 * https://www.robinsharma.com/blog
 
+# Podcasts
+* https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/NWM4NzBiNmM0OWUyNDQ3NDk5MDNlZjZiMzhlODc1NzM=
+* https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTIxOWYwZGI5YWYxNDM4YmI3M2NhZWMwOThjZjA0ZjI=
+* https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/MzQ5NmFiYWE2NGZmNDdjZWIzNjFhNGQ5MDM1OGI5N2U=
+* https://podcasts.google.com/feed/aHR0cHM6Ly9qb2hubWF4d2VsbGxlYWRlcnNoaXBwb2RjYXN0LmxpYnN5bi5jb20vcnNz/episode/ZTY0YzkzODY4NmFiNGU3NWEzZWQ4NTYxNzQ5YmNlN2Y=
+
 # Preparing for Managerial Interviews
 * https://github.com/ryanburgess/manager-interview-questions
 * https://www.youtube.com/c/ExponentTV
-
-
